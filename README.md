@@ -1,0 +1,2 @@
+# speqtral
+🎵 The speqtral VST
